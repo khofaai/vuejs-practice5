@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _piz
   \******************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\r\n    pepperoni: () => {\r\n        console.log('Pepperoni ready!');\r\n    },\r\n    bacon: () => {\r\n        console.log('Bacon ready!')\r\n    }\r\n});\n\n//# sourceURL=webpack://vuejs-practice5/./pizza.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\r\n    pepperoni: () => {\r\n        console.log('Pepperoni ready RUN!');\r\n    },\r\n    bacon: () => {\r\n        console.log('Bacon ready!')\r\n    }\r\n});\n\n//# sourceURL=webpack://vuejs-practice5/./pizza.js?");
 
 /***/ })
 
