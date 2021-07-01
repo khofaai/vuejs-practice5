@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Pepperoni ready!"),console.log("Bacon ready!")})();
